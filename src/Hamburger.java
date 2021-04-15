@@ -30,6 +30,7 @@ public class Hamburger {
         System.out.println("Added " + name + " for an extra " + price);
         this.addition3Name = name;
         this.addition3Price = price;
+
     }
 
     public void addHamburgerAddition4(String name, double price) {
